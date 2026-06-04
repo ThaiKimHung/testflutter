@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Nguyễn Văn An",
+    "email": "nguyenvanan@gmail.com",
+    "phone": "0901234567",
+    "avatar": "https://i.pravatar.cc/300?img=1",
+    "dateOfBirth": "1990-05-15T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Trần Thị Bình",
+    "email": "tranthibinh@gmail.com",
+    "phone": "0912345678",
+    "avatar": "https://i.pravatar.cc/300?img=2",
+    "dateOfBirth": "1992-08-21T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Lê Văn Cường",
+    "email": "levancuong@gmail.com",
+    "phone": "0923456789",
+    "avatar": "https://i.pravatar.cc/300?img=3",
+    "dateOfBirth": "1988-03-10T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Phạm Thị Dung",
+    "email": "phamthidung@gmail.com",
+    "phone": "0934567890",
+    "avatar": "https://i.pravatar.cc/300?img=4",
+    "dateOfBirth": "1995-11-25T00:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Hoàng Văn Em",
+    "email": "hoangvanem@gmail.com",
+    "phone": "0945678901",
+    "avatar": "https://i.pravatar.cc/300?img=5",
+    "dateOfBirth": "1993-07-08T00:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Đỗ Thị Hạnh",
+    "email": "dothihanh@gmail.com",
+    "phone": "0956789012",
+    "avatar": "https://i.pravatar.cc/300?img=6",
+    "dateOfBirth": "1991-01-18T00:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "name": "Võ Văn Khánh",
+    "email": "vovankhanh@gmail.com",
+    "phone": "0967890123",
+    "avatar": "https://i.pravatar.cc/300?img=7",
+    "dateOfBirth": "1987-06-12T00:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "name": "Bùi Thị Lan",
+    "email": "buithilan@gmail.com",
+    "phone": "0978901234",
+    "avatar": "https://i.pravatar.cc/300?img=8",
+    "dateOfBirth": "1996-09-03T00:00:00.000Z"
+  },
+  {
+    "id": 9,
+    "name": "Ngô Văn Minh",
+    "email": "ngovanminh@gmail.com",
+    "phone": "0989012345",
+    "avatar": "https://i.pravatar.cc/300?img=9",
+    "dateOfBirth": "1989-12-22T00:00:00.000Z"
+  },
+  {
+    "id": 10,
+    "name": "Lý Thị Nga",
+    "email": "lythinga@gmail.com",
+    "phone": "0990123456",
+    "avatar": "https://i.pravatar.cc/300?img=10",
+    "dateOfBirth": "1994-04-30T00:00:00.000Z"
+  },
+  {
+    "id": 11,
+    "name": "Phan Văn Nam",
+    "email": "phanvannam@gmail.com",
+    "phone": "0901111111",
+    "avatar": "https://i.pravatar.cc/300?img=11",
+    "dateOfBirth": "1986-08-15T00:00:00.000Z"
+  },
+  {
+    "id": 12,
+    "name": "Trương Thị Oanh",
+    "email": "truongthioanh@gmail.com",
+    "phone": "0902222222",
+    "avatar": "https://i.pravatar.cc/300?img=12",
+    "dateOfBirth": "1997-02-11T00:00:00.000Z"
+  },
+  {
+    "id": 13,
+    "name": "Đặng Văn Phúc",
+    "email": "dangvanphuc@gmail.com",
+    "phone": "0903333333",
+    "avatar": "https://i.pravatar.cc/300?img=13",
+    "dateOfBirth": "1990-10-05T00:00:00.000Z"
+  },
+  {
+    "id": 14,
+    "name": "Mai Thị Quỳnh",
+    "email": "maithiquynh@gmail.com",
+    "phone": "0904444444",
+    "avatar": "https://i.pravatar.cc/300?img=14",
+    "dateOfBirth": "1998-05-27T00:00:00.000Z"
+  },
+  {
+    "id": 15,
+    "name": "Huỳnh Văn Sơn",
+    "email": "huynhvanson@gmail.com",
+    "phone": "0905555555",
+    "avatar": "https://i.pravatar.cc/300?img=15",
+    "dateOfBirth": "1985-03-14T00:00:00.000Z"
+  },
+  {
+    "id": 16,
+    "name": "Tạ Thị Thảo",
+    "email": "tathithao@gmail.com",
+    "phone": "0906666666",
+    "avatar": "https://i.pravatar.cc/300?img=16",
+    "dateOfBirth": "1993-11-09T00:00:00.000Z"
+  },
+  {
+    "id": 17,
+    "name": "Chu Văn Tùng",
+    "email": "chuvantung@gmail.com",
+    "phone": "0907777777",
+    "avatar": "https://i.pravatar.cc/300?img=17",
+    "dateOfBirth": "1991-07-21T00:00:00.000Z"
+  },
+  {
+    "id": 18,
+    "name": "Lâm Thị Uyên",
+    "email": "lamthiuyen@gmail.com",
+    "phone": "0908888888",
+    "avatar": "https://i.pravatar.cc/300?img=18",
+    "dateOfBirth": "1995-12-17T00:00:00.000Z"
+  },
+  {
+    "id": 19,
+    "name": "Kiều Văn Vũ",
+    "email": "kieuvanvu@gmail.com",
+    "phone": "0909999999",
+    "avatar": "https://i.pravatar.cc/300?img=19",
+    "dateOfBirth": "1989-09-25T00:00:00.000Z"
+  },
+  {
+    "id": 20,
+    "name": "Dương Thị Yến",
+    "email": "duongthiyen@gmail.com",
+    "phone": "0910000000",
+    "avatar": "https://i.pravatar.cc/300?img=20",
+    "dateOfBirth": "1996-06-06T00:00:00.000Z"
+  }
+]
